@@ -44,8 +44,9 @@ q:before, q:after {
     box-sizing: border-box;
 }
 
-body {
-    width: 400px; /* long text imitation*/
+body p {
+    width: 75%;
+    max-width: 400px; /* long text imitation*/
     margin-left: 40px;
 }
 
@@ -101,7 +102,7 @@ body.menuEnabled {
 
 @media all and (min-width: 320px) {
     .menu {
-        font-size: 16px;
+        font-size: 18px;
         left: -265px;
         width: 300px;
     }
