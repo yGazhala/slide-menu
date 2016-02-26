@@ -15,7 +15,7 @@ please see <code>page.js</code> file, located in "scripts" folder</p>
 
 <h3>Features:</h3>
 <p>All components were written according to ES 6 standard and were compiled to ES 5 using WebPack and Babel.js.  
-The source code may be seen in "scripts" folder or by using Chrome console (sources/webpack/scripts).
+The source code may be seen in "scripts" folder or in demo preview by using Chrome console (sources/webpack/scripts).
 </p>
 
 <p>Browser support: IE9+.</p>
