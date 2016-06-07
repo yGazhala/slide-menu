@@ -1,21 +1,16 @@
 # slide-menu
-<p>Current version 1.0.0</p>
+
 <p>Demo: http://ygazhala.github.io/slide-menu</p>
 
 <h3>Description:</h3>
-<p><code>menu.js</code> - is a reusable component. It renders menu tree from JavaScript object with options.
-As an example, there is <code>slideMenuStyles.css</code>. It contains basic CSS style for menu slider, 
-therefore when menu is opened - it is located above the main content of the page. 
-In addition, for more clearest view, there is <code>pageMask.js</code> helper component. 
-It makes blackout of main content, when menu enabled. </p>    
+<p>`menu.js` - is a reusable component. It renders a menu-tree from a JavaScript object with options. There is also  `slideMenuStyles.css`. It contains basic CSS style for the menu slider, therefore, when the menu is opened - it is located above the main content of the page. In addition, there is `pageMask.js` helper component. It makes blackout of the main content when the menu is enabled.</p>    
 
 <h3>How to use:</h3>
-<p>To understand how to add the menu component to the document, 
-please see <code>page.js</code> file, located in "scripts" folder</p>
+<p>To understand how to add the menu component to the document, please see `page.js` file, located in `scripts` folder</p>
 
 <h3>Additional info:</h3>
-<p>All components were written according to ES 6 standard and were compiled to ES 5 using Webpack and Babel.js.  
-The source code may be seen in "scripts" folder or in demo preview by using Chrome console (sources/webpack/scripts).
+<p>The source code was written according to ES 6 standard and was compiled to ES 5 by using Webpack and Babel.js.  
+The source code may be seen in `scripts` folder or in demo preview by using Chrome console (sources/webpack/scripts).
 </p>
 
 <p>Browser support: IE9+.</p>
