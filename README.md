@@ -13,11 +13,9 @@ It makes blackout of main content, when menu enabled. </p>
 <p>To understand how to add the menu component to the document, 
 please see <code>page.js</code> file, located in "scripts" folder</p>
 
-<h3>Features:</h3>
-<p>All components were written according to ES 6 standard and were compiled to ES 5 using WebPack and Babel.js.  
+<h3>Additional info:</h3>
+<p>All components were written according to ES 6 standard and were compiled to ES 5 using Webpack and Babel.js.  
 The source code may be seen in "scripts" folder or in demo preview by using Chrome console (sources/webpack/scripts).
 </p>
 
 <p>Browser support: IE9+.</p>
-<p>Mobile devices support: the test was successfully passed by using the mobile emulation tool of Chrome console
- and my Samsung galaxy cellphone with Android 4.1</p>
